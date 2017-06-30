@@ -5,7 +5,7 @@
   "homepage": "https://github.com/OverZealous/run-sequence",
   "repository": {
     "type": "git",
-    "url": "git://github.com/OverZealous/run-sequence.git"
+    "url": "git://github.com/filipi777/run-sequence.git"
   },
   "bugs": {
     "url": "https://github.com/OverZealous/run-sequence/issues"
@@ -23,7 +23,7 @@
     "orchestrator"
   ],
   "dependencies": {
-    "chalk": "ˆ1.1.1",
+    "chalk": "1.1.1",
     "gulp-util": "*"
   },
   "devDependencies": {
